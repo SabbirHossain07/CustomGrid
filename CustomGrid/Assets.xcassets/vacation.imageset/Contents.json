@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "computer-icons-symbol-travel-tourism-png-favpng-2fDbMa3NukaSCL2ufSKRrH7hH.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
